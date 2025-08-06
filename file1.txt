@@ -12,12 +12,16 @@ fix-type-of
 adden the changes
 =======
 The changes made by Satyam.
+master
+New line added by Bimal.
+=======
 
 arjuCloneTest
 Making change for testing  by ARJU.
 =======
 adding a new line by prince
 
+main
 main
 main
 main
