@@ -1,7 +1,16 @@
+feature
 Welcome to Git Training
 Added second line
 
 Wrong line
 added in feature branch
 
+fix-type-of
 adden the changes
+=======
+The changes made by Satyam.
+
+adding a new line by prince
+
+main
+main
