@@ -1,7 +1,0 @@
-Welcome to Git Training
-Added second line
-
-Wrong line
-added in feature branch
-
-The changes made by Satyam.
