@@ -1,11 +1,38 @@
+feature
 Welcome to Git Training
 Added second line
 
 Wrong line
 added in feature branch
 
+ vivek
 adding a new line by vivek vardhan dupally
 
 
 3rd time makes the changed in file by vivek vardhan
 
+=======
+rohan
+welcome to my world
+=======
+fix-top-of
+Hello this is bhavana I added the line
+=======
+main
+fix-type-of
+adden the changes
+=======
+The changes made by Satyam.
+
+arjuCloneTest
+Making change for testing  by ARJU.
+=======
+adding a new line by prince
+
+main
+main
+main
+main
+
+adding a new branch "bull"
+ main
