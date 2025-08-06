@@ -1,9 +1,20 @@
+feature
 Welcome to Git Training
 Added second line
 
 Wrong line
 added in feature branch
 
+fix-type-of
+adden the changes
+=======
 The changes made by Satyam.
 
+arjuCloneTest
 Making change for testing  by ARJU.
+=======
+adding a new line by prince
+
+main
+main
+main
