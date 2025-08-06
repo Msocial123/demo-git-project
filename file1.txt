@@ -1,26 +1,3 @@
-feature
-Welcome to Git Training
-Added second line
-
-Wrong line
-added in feature branch
-
-fix-top-of
-Hello this is bhavana I added the line
-=======
-fix-type-of
-adden the changes
-=======
-The changes made by Satyam.
-
-arjuCloneTest
-Making change for testing  by ARJU.
-=======
-adding a new line by prince
-
-main
-main
-main
-main
-
-adding a new branch "bull"
+ID = 57
+rollno: 6595
+loc : lkjhm
